@@ -1,0 +1,25 @@
+[INFO] 2023/05/16 13:44:02 Logger.go:47: 
+[INFO] 2023/05/16 13:44:18 Logger.go:47: 
+[INFO] 2023/05/16 13:49:09 Logger.go:47: 
+[INFO] 2023/05/16 14:10:13 Logger.go:47: 
+[INFO] 2023/05/16 14:10:21 Logger.go:47: 
+[INFO] 2023/05/16 14:10:47 Logger.go:47: 
+[INFO] 2023/05/16 14:12:35 Logger.go:47: 
+[INFO] 2023/05/16 14:14:04 Logger.go:47: 
+[INFO] 2023/05/16 14:14:06 Logger.go:47: 
+[INFO] 2023/05/16 14:14:07 Logger.go:47: 
+[INFO] 2023/05/16 14:14:23 Logger.go:47: 
+[INFO] 2023/05/16 14:20:12 Logger.go:47: 
+[INFO] 2023/05/16 14:20:20 Logger.go:47: 
+[INFO] 2023/05/16 14:20:36 Logger.go:47: 
+[INFO] 2023/05/16 14:21:53 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:22:09 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:22:23 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:22:28 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:34:43 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:37:10 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:40:49 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:40:52 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:43:30 Logger.go:47: Tampico1
+[INFO] 2023/05/16 14:43:44 Logger.go:47: 
+[INFO] 2023/05/16 14:43:53 Logger.go:47: 

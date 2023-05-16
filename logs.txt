@@ -1,5 +1,0 @@
-[ERROR] 2023/05/13 13:01:26 Logger.go:37: failed to connect database: FEHLER: Relation Â»customersÂ« existiert nicht (SQLSTATE 42P01)
-[ERROR] 2023/05/13 13:03:26 Logger.go:37: failed to connect database: FEHLER: Relation Â»customersÂ« existiert nicht (SQLSTATE 42P01)
-[ERROR] 2023/05/13 13:04:32 Logger.go:37: failed to connect database: FEHLER: Relation Â»customersÂ« existiert nicht (SQLSTATE 42P01)
-[ERROR] 2023/05/14 10:09:11 Logger.go:37: failed to connect database: failed to connect to `host=localhost user=postgres database=mydb`: server error (FATAL: Datenbank »mydb« existiert nicht (SQLSTATE 3D000))
-[ERROR] 2023/05/14 10:09:11 Logger.go:37: failed to connect database: failed to connect to `host=localhost user=postgres database=mydb`: server error (FATAL: Datenbank »mydb« existiert nicht (SQLSTATE 3D000))

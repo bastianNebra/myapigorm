@@ -11,12 +11,12 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gomodule/redigo v1.8.9
 	github.com/gorilla/sessions v1.2.1
+	github.com/jinzhu/gorm v1.9.16
 	gorm.io/driver/postgres v1.5.0
 	gorm.io/gorm v1.25.0
 )
 
 require (
-	github.com/golang-migrate/migrate/v4 v4.15.2 // indirect
 	github.com/gorilla/securecookie v1.1.1 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
